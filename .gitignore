@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.mongo_data/
+mongo_bin/
+.mongo_bin/
+mongo.zip
+.mongo.zip
+scratch/
+.pytest_cache/
+SDT_candidate_kit.zip
+SDT_candidate_kit/
+PROBLEM_STATEMENT.docx
+~$*
