@@ -13,3 +13,27 @@ SDT_candidate_kit.zip
 SDT_candidate_kit/
 PROBLEM_STATEMENT.docx
 ~$*
+
+# Secrets
+.env
+.env.*
+!.env.example
+atlas-credentials.env
+
+# Python environments and generated files
+.venv/
+.venv*/
+__pycache__/
+*.py[cod]
+
+# Downloaded MongoDB Atlas pages
+Databases _ Cloud_ MongoDB Cloud.html
+Databases _ Cloud_ MongoDB Cloud_files/
+Network Access _ Cloud_ MongoDB Cloud.html
+Network Access _ Cloud_ MongoDB Cloud_files/
+Organization General Settings _ Atlas_ MongoDB Atlas.html
+Organization General Settings _ Atlas_ MongoDB Atlas_files/
+
+# Downloaded duplicate project files
+HROne-Attendance-API-main/
+HROne-Attendance-API-main.zip
